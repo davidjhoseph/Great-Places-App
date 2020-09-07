@@ -18,6 +18,16 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>We need to access your gallery</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Please allow access to the camera</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Please allow access to location</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Please allow access to location</string>
+    <key>io.flutter.embedded_views_preview</key>
+    <true/>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
